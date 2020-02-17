@@ -1,0 +1,10 @@
+cython
+pillow
+lxml
+jupyter
+matplotlib
+pandas
+tensorflow-gpu==1.9.0
+#tensorflow==1.9.0
+opencv-python==3.4.1.15
+sklearn

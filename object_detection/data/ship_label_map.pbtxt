@@ -1,0 +1,28 @@
+item {
+  id: 1
+  name: 'fishing'
+}
+item {
+  id: 2
+  name: 'merchant'
+}
+item {
+  id: 3
+  name: 'passenger'
+}
+item {
+  id: 4
+  name: 'sailing'
+}
+item {
+  id: 5
+  name: 'small'
+}
+item {
+  id: 6
+  name: 'tug'
+}
+item {
+  id: 7
+  name: 'warship'
+}
